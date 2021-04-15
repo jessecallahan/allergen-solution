@@ -1,0 +1,15 @@
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.csprojAssemblyReference.cache
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.AssemblyInfoInputs.cache
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.AssemblyInfo.cs
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.csproj.CoreCompileInputs.cache
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/bin/Debug/net5.0/Allergens.deps.json
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/bin/Debug/net5.0/Allergens.runtimeconfig.json
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/bin/Debug/net5.0/Allergens.runtimeconfig.dev.json
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/bin/Debug/net5.0/Allergens.dll
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/bin/Debug/net5.0/ref/Allergens.dll
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/bin/Debug/net5.0/Allergens.pdb
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.dll
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/ref/Allergens.dll
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.pdb
+/Users/jcallahan/Desktop/Allergens.Solution/Allergens/obj/Debug/net5.0/Allergens.genruntimeconfig.cache
